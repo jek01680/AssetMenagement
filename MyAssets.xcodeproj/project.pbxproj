@@ -11,6 +11,24 @@
 		32AE95A327F5AD0E0086E9E0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32AE95A227F5AD0E0086E9E0 /* ContentView.swift */; };
 		32AE95A527F5AD0F0086E9E0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 32AE95A427F5AD0F0086E9E0 /* Assets.xcassets */; };
 		32AE95A827F5AD0F0086E9E0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 32AE95A727F5AD0F0086E9E0 /* Preview Assets.xcassets */; };
+		32AE95AF27F725ED0086E9E0 /* NavigationBarWithButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32AE95AE27F725ED0086E9E0 /* NavigationBarWithButton.swift */; };
+		32AE95B127FD1A0B0086E9E0 /* AssetMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32AE95B027FD1A0B0086E9E0 /* AssetMenu.swift */; };
+		32AE95B327FD1B750086E9E0 /* AssetMenuButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32AE95B227FD1B750086E9E0 /* AssetMenuButtonStyle.swift */; };
+		32AE95B527FD1FBE0086E9E0 /* AssetMenuGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32AE95B427FD1FBE0086E9E0 /* AssetMenuGridView.swift */; };
+		32AE95B727FD50900086E9E0 /* AssetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32AE95B627FD50900086E9E0 /* AssetView.swift */; };
+		32AE95B927FD51720086E9E0 /* AssetBanner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32AE95B827FD51720086E9E0 /* AssetBanner.swift */; };
+		32AE95BC27FD51DD0086E9E0 /* BannerCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32AE95BB27FD51DD0086E9E0 /* BannerCard.swift */; };
+		32AE95BF27FD52CD0086E9E0 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32AE95BE27FD52CD0086E9E0 /* PageViewController.swift */; };
+		32AE95C127FD56900086E9E0 /* PageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32AE95C027FD56900086E9E0 /* PageControl.swift */; };
+		32AE95C327FD57F00086E9E0 /* AssetBannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32AE95C227FD57F00086E9E0 /* AssetBannerView.swift */; };
+		32AE95C627FFEA4C0086E9E0 /* assets.json in Resources */ = {isa = PBXBuildFile; fileRef = 32AE95C527FFEA4C0086E9E0 /* assets.json */; };
+		32AE95C827FFEA6F0086E9E0 /* Asset.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32AE95C727FFEA6F0086E9E0 /* Asset.swift */; };
+		32AE95CA27FFEB220086E9E0 /* AssetSummaryData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32AE95C927FFEB220086E9E0 /* AssetSummaryData.swift */; };
+		32AE95CC27FFECBC0086E9E0 /* AssetSectionHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32AE95CB27FFECBC0086E9E0 /* AssetSectionHeaderView.swift */; };
+		32AE95CE27FFED490086E9E0 /* AssetSectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32AE95CD27FFED490086E9E0 /* AssetSectionView.swift */; };
+		32AE95D027FFEEFA0086E9E0 /* AssetSummaryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32AE95CF27FFEEFA0086E9E0 /* AssetSummaryView.swift */; };
+		32AE95D327FFF3A50086E9E0 /* TapMenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32AE95D227FFF3A50086E9E0 /* TapMenuView.swift */; };
+		32AE95D527FFF71D0086E9E0 /* AssetCardSectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32AE95D427FFF71D0086E9E0 /* AssetCardSectionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +37,24 @@
 		32AE95A227F5AD0E0086E9E0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		32AE95A427F5AD0F0086E9E0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		32AE95A727F5AD0F0086E9E0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		32AE95AE27F725ED0086E9E0 /* NavigationBarWithButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationBarWithButton.swift; sourceTree = "<group>"; };
+		32AE95B027FD1A0B0086E9E0 /* AssetMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetMenu.swift; sourceTree = "<group>"; };
+		32AE95B227FD1B750086E9E0 /* AssetMenuButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetMenuButtonStyle.swift; sourceTree = "<group>"; };
+		32AE95B427FD1FBE0086E9E0 /* AssetMenuGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetMenuGridView.swift; sourceTree = "<group>"; };
+		32AE95B627FD50900086E9E0 /* AssetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetView.swift; sourceTree = "<group>"; };
+		32AE95B827FD51720086E9E0 /* AssetBanner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetBanner.swift; sourceTree = "<group>"; };
+		32AE95BB27FD51DD0086E9E0 /* BannerCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BannerCard.swift; sourceTree = "<group>"; };
+		32AE95BE27FD52CD0086E9E0 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
+		32AE95C027FD56900086E9E0 /* PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControl.swift; sourceTree = "<group>"; };
+		32AE95C227FD57F00086E9E0 /* AssetBannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetBannerView.swift; sourceTree = "<group>"; };
+		32AE95C527FFEA4C0086E9E0 /* assets.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = assets.json; sourceTree = "<group>"; };
+		32AE95C727FFEA6F0086E9E0 /* Asset.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Asset.swift; sourceTree = "<group>"; };
+		32AE95C927FFEB220086E9E0 /* AssetSummaryData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetSummaryData.swift; sourceTree = "<group>"; };
+		32AE95CB27FFECBC0086E9E0 /* AssetSectionHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetSectionHeaderView.swift; sourceTree = "<group>"; };
+		32AE95CD27FFED490086E9E0 /* AssetSectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetSectionView.swift; sourceTree = "<group>"; };
+		32AE95CF27FFEEFA0086E9E0 /* AssetSummaryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetSummaryView.swift; sourceTree = "<group>"; };
+		32AE95D227FFF3A50086E9E0 /* TapMenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapMenuView.swift; sourceTree = "<group>"; };
+		32AE95D427FFF71D0086E9E0 /* AssetCardSectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetCardSectionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,7 +89,14 @@
 			children = (
 				32AE95A027F5AD0E0086E9E0 /* MyAssetsApp.swift */,
 				32AE95A227F5AD0E0086E9E0 /* ContentView.swift */,
+				32AE95B627FD50900086E9E0 /* AssetView.swift */,
+				32AE95AE27F725ED0086E9E0 /* NavigationBarWithButton.swift */,
+				32AE95BA27FD51850086E9E0 /* Entity */,
+				32AE95BD27FD51F70086E9E0 /* AssetMenu */,
+				32AE95C427FD57FF0086E9E0 /* AssetBannerView */,
+				32AE95D127FFEFFA0086E9E0 /* AssetSummaryView */,
 				32AE95A427F5AD0F0086E9E0 /* Assets.xcassets */,
+				32AE95C527FFEA4C0086E9E0 /* assets.json */,
 				32AE95A627F5AD0F0086E9E0 /* Preview Content */,
 			);
 			path = MyAssets;
@@ -65,6 +108,49 @@
 				32AE95A727F5AD0F0086E9E0 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		32AE95BA27FD51850086E9E0 /* Entity */ = {
+			isa = PBXGroup;
+			children = (
+				32AE95C727FFEA6F0086E9E0 /* Asset.swift */,
+				32AE95B827FD51720086E9E0 /* AssetBanner.swift */,
+				32AE95B027FD1A0B0086E9E0 /* AssetMenu.swift */,
+			);
+			path = Entity;
+			sourceTree = "<group>";
+		};
+		32AE95BD27FD51F70086E9E0 /* AssetMenu */ = {
+			isa = PBXGroup;
+			children = (
+				32AE95B227FD1B750086E9E0 /* AssetMenuButtonStyle.swift */,
+				32AE95B427FD1FBE0086E9E0 /* AssetMenuGridView.swift */,
+			);
+			path = AssetMenu;
+			sourceTree = "<group>";
+		};
+		32AE95C427FD57FF0086E9E0 /* AssetBannerView */ = {
+			isa = PBXGroup;
+			children = (
+				32AE95C227FD57F00086E9E0 /* AssetBannerView.swift */,
+				32AE95BB27FD51DD0086E9E0 /* BannerCard.swift */,
+				32AE95BE27FD52CD0086E9E0 /* PageViewController.swift */,
+				32AE95C027FD56900086E9E0 /* PageControl.swift */,
+			);
+			path = AssetBannerView;
+			sourceTree = "<group>";
+		};
+		32AE95D127FFEFFA0086E9E0 /* AssetSummaryView */ = {
+			isa = PBXGroup;
+			children = (
+				32AE95C927FFEB220086E9E0 /* AssetSummaryData.swift */,
+				32AE95CB27FFECBC0086E9E0 /* AssetSectionHeaderView.swift */,
+				32AE95CD27FFED490086E9E0 /* AssetSectionView.swift */,
+				32AE95CF27FFEEFA0086E9E0 /* AssetSummaryView.swift */,
+				32AE95D227FFF3A50086E9E0 /* TapMenuView.swift */,
+				32AE95D427FFF71D0086E9E0 /* AssetCardSectionView.swift */,
+			);
+			path = AssetSummaryView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,6 +211,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				32AE95C627FFEA4C0086E9E0 /* assets.json in Resources */,
 				32AE95A827F5AD0F0086E9E0 /* Preview Assets.xcassets in Resources */,
 				32AE95A527F5AD0F0086E9E0 /* Assets.xcassets in Resources */,
 			);
@@ -137,8 +224,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				32AE95B527FD1FBE0086E9E0 /* AssetMenuGridView.swift in Sources */,
+				32AE95CE27FFED490086E9E0 /* AssetSectionView.swift in Sources */,
+				32AE95C827FFEA6F0086E9E0 /* Asset.swift in Sources */,
+				32AE95BF27FD52CD0086E9E0 /* PageViewController.swift in Sources */,
+				32AE95CA27FFEB220086E9E0 /* AssetSummaryData.swift in Sources */,
+				32AE95CC27FFECBC0086E9E0 /* AssetSectionHeaderView.swift in Sources */,
+				32AE95D027FFEEFA0086E9E0 /* AssetSummaryView.swift in Sources */,
+				32AE95AF27F725ED0086E9E0 /* NavigationBarWithButton.swift in Sources */,
+				32AE95B927FD51720086E9E0 /* AssetBanner.swift in Sources */,
+				32AE95B727FD50900086E9E0 /* AssetView.swift in Sources */,
 				32AE95A327F5AD0E0086E9E0 /* ContentView.swift in Sources */,
 				32AE95A127F5AD0E0086E9E0 /* MyAssetsApp.swift in Sources */,
+				32AE95B127FD1A0B0086E9E0 /* AssetMenu.swift in Sources */,
+				32AE95D327FFF3A50086E9E0 /* TapMenuView.swift in Sources */,
+				32AE95C127FD56900086E9E0 /* PageControl.swift in Sources */,
+				32AE95C327FD57F00086E9E0 /* AssetBannerView.swift in Sources */,
+				32AE95D527FFF71D0086E9E0 /* AssetCardSectionView.swift in Sources */,
+				32AE95BC27FD51DD0086E9E0 /* BannerCard.swift in Sources */,
+				32AE95B327FD1B750086E9E0 /* AssetMenuButtonStyle.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,6 +379,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -304,6 +409,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
